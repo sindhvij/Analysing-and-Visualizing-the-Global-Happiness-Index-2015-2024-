@@ -51,7 +51,7 @@ To analyze and visualize the Global Happiness Index using Python in order to und
 - Visualization: Bar chart of indicator weights
 
 ### 10. **Interactive Dashboard**
-- Task: Combine key charts into a dashboard (optional tools: Plotly Dash, Streamlit, Tableau)
+- Task: Combine key charts into a dashboard (optional tools: Plotly Dash, Tableau)
 - Visualization: Interactive views of multiple KPIs
 
 ### 11. **Happiness vs. Corruption Perception**
