@@ -1,0 +1,2 @@
+# Analysing-and-Visualizing-the-Global-Happiness-Index-2015-2024-
+This project explores the **Global Happiness Index**, which ranks countries based on factors like GDP per capita, social support, healthy life expectancy, freedom of choice, generosity, and perception of corruption. Using Python and data visualization libraries, we uncover trends, correlations, and insights from happiness data over time. 
