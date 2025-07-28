@@ -1,0 +1,48 @@
+# 🌍 Global Happiness and Prosperity Trends (2015–2024)
+
+## 📘 Project Overview
+
+This project explores global happiness trends and economic prosperity between 2015 and 2024 using data from the World Happiness Report. It combines Python-based preprocessing with interactive Tableau visualizations to deliver insights into regional well-being and GDP dynamics.
+
+---
+
+## 🎯 Objectives
+
+- Analyze and visualize happiness scores across countries and regions
+- Track changes in average happiness over time
+- Identify the top 10 wealthiest countries by GDP per capita
+- Uncover geographic patterns in happiness and prosperity
+
+---
+
+## 🛠 Tools & Technologies
+
+| Component       | Tool/Library            |
+|------------------|--------------------------|
+| Data Processing  | Python (pandas, numpy)   |
+| Visualization    | Tableau Desktop Public   |
+| Plotting (optional) | matplotlib, seaborn   |
+| Data Source      | World Happiness Report (2015–2024) |
+
+---
+
+## 📊 Key Features of the Dashboard
+
+### 1. **Happiness Score Map**
+- Displays 2024 global happiness scores by country
+- Blue = higher scores, Red = lower scores
+- Insight: Europe, Oceania top scorers; Sub-Saharan Africa lowest
+
+### 2. **Happiness Trend by Region**
+- Line chart of happiness scores from 2015–2024
+- Tracks long-term regional shifts
+- North America, Latin America consistently high; Southern Asia lags
+
+### 3. **Top 10 Countries by GDP per Capita**
+- Bar chart ranking the wealthiest countries (2024)
+- Includes Luxembourg, Singapore, UAE, Switzerland, Ireland, etc.
+
+---
+
+
+
